@@ -73,6 +73,8 @@ a {
     padding-top: 140px;
 }
 
+/*      Search Bar      */
+
 .search-bar {
     width: 590px;
     height: 45px;
@@ -102,6 +104,8 @@ a {
     align-self: center;
     margin-right: 10px;
 }
+
+/*      Search Buttons      */
 
 .search-buttons button{
     margin-top: 25px;
