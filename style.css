@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.main_nav_left {
+    float: left;
+}
+
+.main_nav_right {
+    float: right;
+}
+
+.sign-in {
+    background: blue;
+}
