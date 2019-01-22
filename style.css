@@ -1,15 +1,29 @@
 body {
     margin: 0;
+    background: white;
 }
 
-.main_nav_left {
+.main_nav_left li {
     float: left;
+    margin: 8px;
+    padding: 8px;
 }
 
 .main_nav_right {
     float: right;
+    margin: 8px;
+    padding: 8px;
 }
 
 .sign-in {
     background: blue;
+    padding: 8px;
+}
+
+.picture {
+    align-content: center;
+}
+
+li {
+    display: inline;
 }
